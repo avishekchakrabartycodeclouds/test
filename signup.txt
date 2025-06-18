@@ -1,0 +1,1 @@
+This is a sign up form where user can put their details and sign up the site
